@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width-device", initial-scale="1">
 <link rel="stylesheet" href="css/bootstrap.css">
-<title>테스트버전</title>
+<title>테스트</title>
 </head>
 <body>
 	<nav class="navbar navbar-default">
