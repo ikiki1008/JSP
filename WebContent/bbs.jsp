@@ -78,7 +78,7 @@
 				<tr>
 					<td>1</td>
 					<td>안뇽하심니까</td>
-					<td>오유경</td>
+					<td>Yu</td>
 					<td>2022-03-13</td>
 				</tr>
 			</tbody>
